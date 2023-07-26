@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Loja de Artigos Esportivos
+          Uniformes Esportivos
         </a>
         <a
           className="App-link"
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Curso Marcelo Homci
+          Coaching Esportivo
         </a>
       </header>
     </div>
